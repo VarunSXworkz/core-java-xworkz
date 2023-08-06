@@ -1,3 +1,6 @@
-class Heart extends Organ{
+package com.xworkz.hu.human;
 
+public class Heart {
+
+    String heartFunction;
 }

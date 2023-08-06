@@ -1,6 +1,7 @@
-class Institute{
+package com.xworkz.insapp.insit;
 
-public void toStudy(){
-System.out.println("To study core java");
-}
+public class Institute {
+
+    String institueName;
+    Trainers trainers;
 }

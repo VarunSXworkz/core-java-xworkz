@@ -1,3 +1,0 @@
-class Insta extends SocialMediaApp{
-
-}

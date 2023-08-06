@@ -1,3 +1,0 @@
-class BJP extends PoliticalParty{
-
-}

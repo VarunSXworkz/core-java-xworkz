@@ -1,6 +1,7 @@
-class Country{
+package com.xworkz.medicineapp.country;
 
-public void toBeCitizen(){
-System.out.println("To be a citizen of india");
-}
+public class Country {
+
+    String countryName;
+    Pharmacy pharmacy;
 }

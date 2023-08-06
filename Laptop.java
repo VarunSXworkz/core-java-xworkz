@@ -1,6 +1,7 @@
-class Laptop{
+package com.xworkz.desktop.laptop;
 
-public void toRunCode(){
-System.out.println("To Save data and to run programs");
-}
+public class Laptop {
+
+    String laptopName;
+    Processor processor;
 }
